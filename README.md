@@ -1,6 +1,8 @@
 # Shop App
 
-A new Flutter project.
+A new Flutter + Firebase project.
+
+[Shop App Screenshots.pdf](https://github.com/Smit-71/Shop-App/files/10572590/Shop.App.Screenshots.pdf)
 
 ## Getting Started
 
